@@ -10,8 +10,8 @@ public class PracticeBranch8 {
     public static void main(String[] args) {
        
         
-        //Detta är Master
-        //sup homie
+        //Detta är branchB
+        //sup homie!!!!
     }
 
 }
